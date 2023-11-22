@@ -29,7 +29,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/real-estate-react.git
+git clone https://github.com/ElhamDe/rent-home-react.git
 
 # Navigate to the project directory
 cd real-estate-react
